@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, DemoView!</string>
+    <string name="app_name">OverlayManagerDemo</string>
+    <string name="add_marker">Add Marker</string>
+    <string name="discard">Discard</string>
+    <string name="Cancel">Cancel</string>
+    
+    
+    
+</resources>
